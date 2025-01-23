@@ -8,3 +8,7 @@ I'm simulating a data streaming app that produces realtime data from any sensor 
 ```shell
 gradle run
 ```
+
+## Related Projects
+
+See also a JAVA version of the same project -> [here](https://github.com/knands42/Sensor-Streaming-App-Java)
